@@ -1,6 +1,11 @@
 # Hands On for Git & GitHub
 このハンズオンでは、実際に手を動かしながらGitとGitHubの使用方法を学習します。
 
+始めるにはまず、このリポジトリをクローンしてください。
+```bash
+$ git clone https://github.com/fuji029/PBL-SG-pre.git 保存先ディレクトリ
+```
+でクローンしてください。
 ## 目次
 以下の手順で進めてください。
 1. [ブランチの作成・移動](./01.md)
